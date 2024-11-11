@@ -1,9 +1,9 @@
 ---
 version: 5.3.0
-slug: letsencrypt
-name: Let's Encrypt
+slug: letsencrypt-test
+name: Let's Encrypt (Testing)
 description: Manage certificate from Let's Encrypt
-url: https://github.com/home-assistant/addons/tree/master/letsencrypt
+url: https://github.com/agnon/hass-letsencrypt-test/tree/main
 arch:
   - armhf
   - armv7
